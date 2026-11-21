@@ -1,0 +1,8 @@
+{
+  "name": "CampusPulse",
+  "description": "Modern College Attendance & Academic Intelligence Platform with one-tap marking, immutable audit trails, automated student onboarding, and 75% recovery analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
